@@ -1,0 +1,4 @@
+/* if x equals y then return the value */
+if (x == y) {
+    return x;
+}
